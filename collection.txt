@@ -1,0 +1,47 @@
+1) Time complexity (Assympotic)
+--> Big O (worst case)
+--> Theta ( specific case)
+--> Omega (least case)
+
+
+2)Data structures
+--> Linear (single line, continous manner with the help of memory)
+a) array
+b) linked list
+c) stack
+d) queue
+
+--> non Linear
+a)Tree
+b) graph
+c)bitmap
+
+2.1)Algorithm
+
+--> brute force(forcefully solve the problem)
+write a function to print natural number in increasing order
+
+
+--> sorting 
+--> searching
+linear search and binary search  
+--> greedy(optimal approach)
+notes contain : 100,50,20,10
+optimal notes required is : 4*100+50*1
+
+--> dynamic programing
+--> backtracking
+--> hashing
+--> recursion(minimize the code line)
+stack space 
+
+
+
+--> randomizing
+--> divide and conquer
+
+LIST
+y
+
+
+
